@@ -1,0 +1,4 @@
+regedit.exe
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\svsvc
+Cambia Start a 4 
+Riavvia
